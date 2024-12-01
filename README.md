@@ -1,2 +1,1 @@
-# Paws-Auto-Clicker
-Paws-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
